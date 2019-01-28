@@ -115,3 +115,6 @@ To add your project to the list, submit a pull request.
 
 How to Contribute
 The Contributor Covenant is a living document, and has been open sourced. Contributions in the form of issues and pull requests are welcomed and encouraged.
+
+The Contributor Covenant was created by Coraline Ada Ehmke in 2014 and is released under the CC BY 4.0 License.
+Support this and other diversity initiatives through our Patreon.
